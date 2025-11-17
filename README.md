@@ -1,11 +1,14 @@
-<!-- Banner de apresentação moderno -->
-![banner](https://github.com/user-attachments/assets/63a34f8a2f8f467f8e8c0f1b23ca1109)
+ <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=selmamonteiro&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selmamonteiro&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+  ![github-contribution-grid-snake](https://user-images.githubusercontent.com/127353307/223878413-7bc60a8c-b971-43b9-af84-43aeee49f0eb.svg)
+  <br>
+
 
 # 👋 Olá! Eu sou a **Selma Monteiro**
 
 ✨ **Técnica em Desenvolvimento de Sistemas**  
 ✨ Explorando Front-end e Back-end  
-✨ Criadora de projetos simples, criativos e educativos
+✨ Criadora de projetos como: jogos infantis simples, criativos e educativos e sites
 
 Sou apaixonada por tecnologia e por transformar ideias em projetos reais.  
 **Meu último desafio foi migrar para a área de tecnologia**, e isso tem me motivado a aprender todos os dias! 🚀
@@ -27,8 +30,8 @@ Sou apaixonada por tecnologia e por transformar ideias em projetos reais.
 
 ## 🚀 Projetos em Destaque
 
-✨ **EcoAventureiros**  
-Jogo infantil educativo sobre sustentabilidade • HTML • CSS • JS  
+✨ **Jogo de Balões**  
+Jogo infantil aprendendo a contar • HTML • CSS • JS  
 📌 Aprendizagem + diversão!
 
 ✨ **Calculadora Criativa**  
@@ -40,16 +43,6 @@ Exercícios, práticas e desafios do curso
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
- <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=selmamonteiro&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SelmaMonteiro&layout=compact&theme=tokyonight&hide_border=true&border_radius=15)
-
-</div>
-
----
 
 ## 🌱 Sobre mim
 
@@ -60,7 +53,7 @@ Sou movida pela curiosidade, pela disciplina e pela alegria de evoluir sempre.
 
 ---
 
-## 📬 Me Encontre
+## 📬 Encontre-Me 
 
 📧 **E-mail:** selmamonteiro251@gmail.com  
 📸 **Instagram:** @selmamonteiro.12  
