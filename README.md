@@ -37,6 +37,13 @@ Jogo infantil aprendendo a contar • HTML • CSS • JS
 📁 Repositório: https://github.com/SelmaMonteiro/Jogo-de-Baloes  
 📝 Um joguinho colorido para o público infantil: estoure balões, conte pontos e ouça o som de estouro.
 
+✨ **Mini E‑commerce**  
+Catálogo com carrinho simulado • HTML • CSS • JS  
+📌 Tema claro/escuro, microinterações e WhatsApp integrado  
+🔗 Site: https://selmamonteiro.github.io/Mini-E-Commerce/  
+📁 Repositório: https://github.com/SelmaMonteiro/Mini-E-Commerce  
+📝 Produtos com busca, filtro, ordenação e pagamento simulado (Pix e Cartão).
+
 ✨ **Calculadora Criativa**  
 Projeto para praticar JavaScript  
 📌 Botões estilizados e layout personalizado
