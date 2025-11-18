@@ -59,7 +59,7 @@ Sou movida pela curiosidade, pela disciplina e pela alegria de evoluir sempre.
 ## 📬 Encontre-Me 
 
 📧 **E-mail:** selmamonteiro251@gmail.com  
-📸 **Instagram:** @selmamonteiro.12  
+📸 **Instagram:** https://www.instagram.com/selmamonteiro.12/  
 🔗 **LinkedIn:** https://www.linkedin.com/in/selma-monteiro-13940133b/  
 📁 **Repositórios:** Aqui mesmo no GitHub 😊  
 
