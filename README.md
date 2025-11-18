@@ -68,7 +68,12 @@ Sou movida pela curiosidade, pela disciplina e pela alegria de evoluir sempre.
 ## 🔗 Acesse meu LinkedIn pelo QR Code!
 
 <div align="center">
-<img src="./linkedin-qr.png" width="200" alt="QR Code LinkedIn - Selma Monteiro" />
+<a href="https://www.linkedin.com/in/selma-monteiro-13940133b/" target="_blank" rel="noopener">
+  <img src="./linkedin-qr.png" width="220" alt="QR Code LinkedIn - Selma Monteiro" />
+</a>
+<p>
+  <a href="https://www.linkedin.com/in/selma-monteiro-13940133b/" target="_blank" rel="noopener">Abrir LinkedIn</a>
+</p>
 </div>
 
 ---
