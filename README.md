@@ -8,7 +8,7 @@
 
 ✨ **Técnica em Desenvolvimento de Sistemas**  
 ✨ Explorando Front-end e Back-end  
-✨ Criadora de projetos como: jogos infantis simples, criativos e educativos e sites
+✨ Criadora de projetos como: jogos infantis simples, criativos, educativos e sites
 
 Sou apaixonada por tecnologia e por transformar ideias em projetos reais.  
 **Meu último desafio foi migrar para a área de tecnologia**, e isso tem me motivado a aprender todos os dias! 🚀
@@ -33,7 +33,7 @@ Sou apaixonada por tecnologia e por transformar ideias em projetos reais.
 ✨ **Jogo de Balões**  
 Jogo infantil aprendendo a contar • HTML • CSS • JS  
 📌 Aprendizagem + diversão!  
-🔗 Site: https://selmemonteiro.github.io/Jogo-de-Baloes/  
+🔗 Site: https://selmamonteiro.github.io/Jogo-de-Baloes/  
 📁 Repositório: https://github.com/SelmaMonteiro/Jogo-de-Baloes  
 📝 Um joguinho colorido para o público infantil: estoure balões, conte pontos e ouça o som de estouro.
 
