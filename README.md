@@ -1,4 +1,4 @@
- <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=selmamonteiro&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=selmamonteiro&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selmamonteiro&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
   ![github-contribution-grid-snake](https://user-images.githubusercontent.com/127353307/223878413-7bc60a8c-b971-43b9-af84-43aeee49f0eb.svg)
   <br>
@@ -32,7 +32,10 @@ Sou apaixonada por tecnologia e por transformar ideias em projetos reais.
 
 ✨ **Jogo de Balões**  
 Jogo infantil aprendendo a contar • HTML • CSS • JS  
-📌 Aprendizagem + diversão!
+📌 Aprendizagem + diversão!  
+🔗 Site: https://selmemonteiro.github.io/Jogo-de-Baloes/  
+📁 Repositório: https://github.com/SelmaMonteiro/Jogo-de-Baloes  
+📝 Um joguinho colorido para o público infantil: estoure balões, conte pontos e ouça o som de estouro.
 
 ✨ **Calculadora Criativa**  
 Projeto para praticar JavaScript  
