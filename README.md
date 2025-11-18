@@ -63,6 +63,18 @@ Sou movida pela curiosidade, pela disciplina e pela alegria de evoluir sempre.
 🔗 **LinkedIn:** https://www.linkedin.com/in/selma-monteiro-13940133b/  
 📁 **Repositórios:** Aqui mesmo no GitHub 😊  
 
+<div style="display: flex; gap: 12px; align-items: center;">
+  <a href="https://www.linkedin.com/in/selma-monteiro-13940133b/" target="_blank" rel="noopener">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/SelmaMonteiro" target="_blank" rel="noopener">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" alt="GitHub" />
+  </a>
+  <a href="https://www.instagram.com/selmamonteiro.12/" target="_blank" rel="noopener">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" width="32" alt="Instagram" />
+  </a>
+</div>
+
 ---
 
 ## 🔗 Acesse meu LinkedIn pelo QR Code!
