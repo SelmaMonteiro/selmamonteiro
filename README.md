@@ -59,7 +59,7 @@ Sou movida pela curiosidade, pela disciplina e pela alegria de evoluir sempre.
 ## 📬 Encontre-Me 
 
 📧 **E-mail:** selmamonteiro251@gmail.com  
-📸 **Instagram:** https://www.instagram.com/selma.monteiro.12/  
+📸 **Instagram:** https://www.instagram.com/selma.monteiro.12/
 🔗 **LinkedIn:** https://www.linkedin.com/in/selma-monteiro-13940133b/  
 📁 **Repositórios:** Aqui mesmo no GitHub 😊  
 
@@ -70,7 +70,7 @@ Sou movida pela curiosidade, pela disciplina e pela alegria de evoluir sempre.
   <a href="https://github.com/SelmaMonteiro" target="_blank" rel="noopener">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" alt="GitHub" />
   </a>
-  <a href="https://www.instagram.com/selmamonteiro.12/" target="_blank" rel="noopener">
+<a href="https://www.instagram.com/selma.monteiro.12/" target="_blank" rel="noopener">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg" width="32" alt="Instagram" />
   </a>
 </div>
