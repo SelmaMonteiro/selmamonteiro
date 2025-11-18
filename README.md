@@ -71,7 +71,7 @@ Sou movida pela curiosidade, pela disciplina e pela alegria de evoluir sempre.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" alt="GitHub" />
   </a>
   <a href="https://www.instagram.com/selmamonteiro.12/" target="_blank" rel="noopener">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" width="32" alt="Instagram" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg" width="32" alt="Instagram" />
   </a>
 </div>
 
