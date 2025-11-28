@@ -8,7 +8,7 @@
 
 ✨ **Técnica em Desenvolvimento de Sistemas**  
 ✨ Explorando Front-end e Back-end  
-✨ Criadora de projetos como: jogos infantis simples, criativos, educativos e sites
+✨ Criadora de projetos como: jogos infantis, criativos, educativos, inclusivos e sites
 
 Sou apaixonada por tecnologia e por transformar ideias em projetos reais.  
 **Meu último desafio foi migrar para a área de tecnologia**, e isso tem me motivado a aprender todos os dias! 🚀
