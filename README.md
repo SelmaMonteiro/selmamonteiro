@@ -31,7 +31,7 @@ Sou apaixonada por tecnologia e por transformar ideias em projetos reais.
 ## 🚀 Projetos em Destaque
 
 ✨ **TeaInclui**  
-App de comunicação inclusiva • HTML • CSS • JS  
+App de comunicação inclusiva • HTML • CSS • JS  • PHP • PWA
 📌 Cartões com voz, preferências de acessibilidade e modo calma  
 🔗 Site: https://selmamonteiro.github.io/TeaInclui/  
 📁 Repositório: https://github.com/SelmaMonteiro/TeaInclui  
